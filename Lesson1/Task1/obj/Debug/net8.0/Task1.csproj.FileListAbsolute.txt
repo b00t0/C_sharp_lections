@@ -1,0 +1,14 @@
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/bin/Debug/net8.0/Task1
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/bin/Debug/net8.0/Task1.dll
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.dll
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
