@@ -12,3 +12,4 @@
 /Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.pdb
 /Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
 /Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
+/Users/crazybobkovs/Documents/GeekBrains/Apps/Git/01_CSharp/Lesson1/Task1/obj/Debug/net8.0/Task1.sourcelink.json
